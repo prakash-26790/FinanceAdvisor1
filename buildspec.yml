@@ -9,4 +9,4 @@ artifacts:
   files:
     - appspec.yml
     - scripts/*
-    - target/petclinic.war
+    - target/financadvisory.war
